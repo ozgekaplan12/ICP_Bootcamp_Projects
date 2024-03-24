@@ -1,0 +1,16 @@
+{
+  "canisters": {
+    "token_transfer_motoko_backend": {
+      "main": "src/token_transfer_motoko_backend/main.mo",
+      "type": "motoko"
+    }
+  },
+  "defaults": {
+    "build": {
+      "args": "",
+      "packtool": ""
+    }
+  },
+  "output_env_file": ".env",
+  "version": 1
+}
